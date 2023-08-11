@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdullah Tanveer
 - 👀 I’m interested in Programming, in General.
 - 🌱 I’m currently learning MERN Stack.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me ...
 
 <!---
