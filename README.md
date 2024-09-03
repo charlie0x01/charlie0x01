@@ -1,4 +1,4 @@
-👋 Hello! I'm [Your Name], a passionate backend developer currently focused on building a starter kit for backend projects using Node.js and TypeScript. 🚀
+👋 Hello! I'm **Abdullah Tanveer**, a passionate backend developer currently focused on building a starter kit for backend projects using Node.js and TypeScript. 🚀
 
 🔧 What I’m Working On: I’m developing a comprehensive starter kit to streamline backend development, featuring Node.js and TypeScript. This kit aims to simplify the setup process and help developers hit the ground running with best practices and modern tools.
 
