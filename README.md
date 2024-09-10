@@ -4,11 +4,11 @@
 
 📚 Currently Learning:
 
-**System Design**: Crafting scalable and efficient architectures for complex systems.
-**Design Patterns**: Mastering reusable solutions for common software design problems.
-**TypeScript**: Enhancing my JavaScript skills with strong typing and better tooling.
-**Backend Development**: Deepening my understanding of server-side technologies and practices.
-**DevOps**: Exploring best practices for continuous integration, deployment, and infrastructure management.
+- **System Design**: Crafting scalable and efficient architectures for complex systems.
+- **Design Patterns**: Mastering reusable solutions for common software design problems.
+- **TypeScript**: Enhancing my JavaScript skills with strong typing and better tooling.
+- **Backend Development**: Deepening my understanding of server-side technologies and practices.
+- **DevOps**: Exploring best practices for continuous integration, deployment, and infrastructure management.
 
 💬 **Let’s Connect**: Feel free to reach out if you want to collaborate on projects, discuss technology, or just chat about backend development and software engineering.
 
